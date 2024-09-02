@@ -10,9 +10,9 @@
 # Installation:
 1. Install Python (Tested on version 3.11)
 
-2. No gitclone:
+2. Gitclone:
    ```
-   download file or copy code to you PC
+   (https://github.com/codenewinsight/Tabizoo-Telegram-Bot.git)
    ```
 
 3. Install the modules:
